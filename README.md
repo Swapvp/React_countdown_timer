@@ -1,1 +1,1 @@
-# React Countdown Timergit
+# React Countdown Timer
